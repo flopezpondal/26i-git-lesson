@@ -1,0 +1,33 @@
+*{
+    font-size: small;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+nav {
+    padding: 60px;
+}
+
+.main-container{
+    height: 600px;
+    color: #040d21;
+    margin: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-container .main-title{
+    width: 60%;
+}
+
+.main-container h1{
+    font-size: 5rem;
+    font-weight: 900;
+}
+
+.main-container .main-image{
+    width: 30%;
+}
