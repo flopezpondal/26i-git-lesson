@@ -11,7 +11,7 @@ nav {
     padding: 60px;
 }
 
-.main-container{
+/* .main-container{
     height: 600px;
     color: #040d21;
     margin: 60px;
@@ -30,4 +30,19 @@ nav {
 
 .main-container .main-image{
     width: 30%;
+} */
+
+.second-container{
+    height: 400px;
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.second-container div{
+    background-color: black;
+    height: 250px;
+    width: 350px;
 }
